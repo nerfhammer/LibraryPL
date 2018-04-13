@@ -1,5 +1,5 @@
 # ENG
-JavaFX project with Hibernate ORM. This java app might serve in traditional libraries. 
+JavaFX project with Hibernate ORM. This java app might serve in traditional libraries. App created in polish language.
 
 
 # PL

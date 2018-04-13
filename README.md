@@ -8,4 +8,4 @@ Projekt wykonany na zaliczenie przedmiotu Programowanie Obiektowe na Uniwesyteci
 W folderze głównym znajduje się baza danych, którą należy zaimportować do poprawnego działania aplikacji. 
 Odniesienie do lokalizacji bazy danych znajduje się w pliku /src/cfg/hibernateMySQL.cfg
 
-Projekt został porzucony po otrzymaniu zaliczenia i otrzymaniu oceny 3,5 - obniżona ocena za brak ładnego GUI. 
+Projekt został porzucony po otrzymaniu zaliczenia i otrzymaniu oceny 3,5 - obniżona ocena za brak ładnego GUI. Aplikacja zawiera również mnóstwo zbędnego kodu, jednak zadecydowałem że nie będę jej rozwijał ani poprawiał
